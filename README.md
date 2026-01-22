@@ -17,7 +17,7 @@ The core innovation hub. Developing the next generation of AI models and digital
 *   **LPT-5.5 (Lisk Pre-trained Transformer)**: Our most advanced neural reasoning model to date.
 *   **Anti-Gravity Protocol**: Advanced security and velocity systems for digital assets.
 
-#### 📚 [LISKIPEDIA](https://liskcell.vercel.app/liskcell)
+#### 📚 [LISKIPEDIA](https://liskipedia.vercel.app/liskcell)
 The official knowledge base for everything LiskCell, xLYR, and the career of liskasYR. A comprehensive archive of projects, timelines, and impact.
 
 #### 🎵 xLYR

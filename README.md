@@ -1,12 +1,93 @@
-- 👋 Hi, I’m @liskasYR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="80" viewBox="0 0 500 80" fill="none">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&amp;display=swap');
+        .text {
+            font-family: 'Outfit', sans-serif;
+            font-size: 24px;
+            dominant-baseline: central;
+            text-anchor: middle;
+            font-weight: 600;
+        }
+        .cursor {
+            fill: #a855f7;
+            animation: blink 0.8s infinite;
+        }
+        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    </style>
 
-<!---
-liskasYR/liskasYR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <rect width="100%" height="100%" fill="#000000" rx="10" />
+
+    <defs>
+        <clipPath id="typingMask">
+            <rect x="0" y="0" width="0" height="80">
+                <animate attributeName="width" 
+                    values="0;500;500;0" 
+                    dur="5000ms" 
+                    repeatCount="indefinite" 
+                    keyTimes="0;0.6400000000000001;0.95;1"
+                />
+            </rect>
+        </clipPath>
+    </defs>
+
+    <g clip-path="url(#typingMask)">
+        
+                    <g transform="translate(0, 0)">
+                        <text class="text line line-0" x="250" y="40" fill="#a855f7" opacity="0">
+                            liskasYR: Visionary Artist 🎵
+                            <animate attributeName="opacity" values="0;1;1;0" 
+                                dur="20000ms" 
+                                begin="0ms" 
+                                repeatCount="indefinite"
+                                keyTimes="0;0.025;0.2;0.25"
+                            />
+                        </text>
+                    </g>
+                    <g transform="translate(0, 0)">
+                        <text class="text line line-1" x="250" y="40" fill="#a855f7" opacity="0">
+                            Founder of LiskCell 💡
+                            <animate attributeName="opacity" values="0;1;1;0" 
+                                dur="20000ms" 
+                                begin="5000ms" 
+                                repeatCount="indefinite"
+                                keyTimes="0;0.025;0.2;0.25"
+                            />
+                        </text>
+                    </g>
+                    <g transform="translate(0, 0)">
+                        <text class="text line line-2" x="250" y="40" fill="#a855f7" opacity="0">
+                            Powered by LPT-5.5 AI 🚀
+                            <animate attributeName="opacity" values="0;1;1;0" 
+                                dur="20000ms" 
+                                begin="10000ms" 
+                                repeatCount="indefinite"
+                                keyTimes="0;0.025;0.2;0.25"
+                            />
+                        </text>
+                    </g>
+                    <g transform="translate(0, 0)">
+                        <text class="text line line-3" x="250" y="40" fill="#a855f7" opacity="0">
+                            Innovative Design Hub 💎
+                            <animate attributeName="opacity" values="0;1;1;0" 
+                                dur="20000ms" 
+                                begin="15000ms" 
+                                repeatCount="indefinite"
+                                keyTimes="0;0.025;0.2;0.25"
+                            />
+                        </text>
+                    </g>
+    </g>
+
+    <!-- Synced Cursor -->
+    <rect width="3" height="24" class="cursor">
+        <animate attributeName="x" 
+            values="150;350;350;150" 
+            dur="5000ms" 
+            repeatCount="indefinite" 
+            keyTimes="0;0.6400000000000001;0.95;1" 
+        />
+        <animate attributeName="y"
+            values="28" dur="1s" repeatCount="indefinite"
+        />
+    </rect>
+</svg>

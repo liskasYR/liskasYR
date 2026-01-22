@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&amp;display=swap');
+        .txt {
+            font-family: 'Outfit', sans-serif;
+            font-size: 30px;
+            font-weight: 700;
+            text-anchor: middle;
+            dominant-baseline: central;
+        }
+        .rgb-text {
+            filter: drop-shadow(0 0 5px rgba(255,255,255,0.3));
+        }
+        .cursor {
+            fill: white;
+            animation: blink 0.8s infinite;
+        }
+        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+        @keyframes rgb-flow {
+            0% { stop-color: #ff0000; }
+            20% { stop-color: #ffff00; }
+            40% { stop-color: #00ff00; }
+            60% { stop-color: #00ffff; }
+            80% { stop-color: #0000ff; }
+            100% { stop-color: #ff00ff; }
+        }
+    </style>
+    
+    <defs>
+        <linearGradient id="rgbGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%">
+                <animate attributeName="stop-color" values="#ff0000;#ffff00;#00ff00;#00ffff;#0000ff;#ff00ff;#ff0000" dur="3s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%">
+                <animate attributeName="stop-color" values="#00ffff;#0000ff;#ff00ff;#ff0000;#ffff00;#00ff00;#00ffff" dur="3s" repeatCount="indefinite" />
+            </stop>
+        </linearGradient>
+
+        
+    </defs>
+
+    <rect width="100%" height="100%" fill="#000000" rx="20" stroke="url(#rgbGrad)" stroke-width="4" />
+
+    <g >
+        
+        <text class="txt rgb-text" x="50%" y="50%" fill="url(#rgbGrad)" opacity="0">
+            liskasYR: Deta AI Feature 🌈
+            <animate attributeName="opacity" 
+                values="0;0;1;1;0;0" 
+                keyTimes="0;0;0;0.19444444444444445;0.1945;1"
+                dur="18000ms" 
+                repeatCount="indefinite" />
+        </text>
+        <text class="txt rgb-text" x="50%" y="50%" fill="url(#rgbGrad)" opacity="0">
+            The Future of LiskCell 💡
+            <animate attributeName="opacity" 
+                values="0;0;1;1;0;0" 
+                keyTimes="0;0.24994444444444444;0.25;0.4444444444444444;0.4445;1"
+                dur="18000ms" 
+                repeatCount="indefinite" />
+        </text>
+        <text class="txt rgb-text" x="50%" y="50%" fill="url(#rgbGrad)" opacity="0">
+            Spectrum Engineering 🚀
+            <animate attributeName="opacity" 
+                values="0;0;1;1;0;0" 
+                keyTimes="0;0.49994444444444447;0.5;0.6944444444444444;0.6945;1"
+                dur="18000ms" 
+                repeatCount="indefinite" />
+        </text>
+        <text class="txt rgb-text" x="50%" y="50%" fill="url(#rgbGrad)" opacity="0">
+            Cyber-Zero RGB Elite 💎
+            <animate attributeName="opacity" 
+                values="0;0;1;1;0;0" 
+                keyTimes="0;0.7499444444444444;0.75;0.9444444444444444;0.9445;1"
+                dur="18000ms" 
+                repeatCount="indefinite" />
+        </text>
+    </g>
+
+    
+</svg>

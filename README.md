@@ -1,1 +1,1 @@
-<img src="lisk_typing.svg" width="500">
+                                                      <img src="lisk_typing.svg" width="500">

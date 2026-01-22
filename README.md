@@ -37,7 +37,7 @@ The premium creative sub-brand focusing on high-velocity production and artistic
 
 ### 🔗 Connect with the Vision
 <p align="left">
-  <a href="https://instagram.com/liskasyr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/@jonathanusupov" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://youtube.com/@liskasyr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://liskcell.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
 </p>

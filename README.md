@@ -43,15 +43,9 @@ The premium creative sub-brand focusing on high-velocity production and artistic
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liskasyr&show_icons=true&theme=vibrant&hide_border=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liskasyr&theme=vibrant&hide_border=true" width="400">
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Innovating-success?style=flat-square&color=A855F7">
-  <img src="https://img.shields.io/badge/Model-LPT--5.5-blue?style=flat-square&color=white">
+  <img src="https://img.shields.io/badge/Model-LPT--6-blue?style=flat-square&color=white">
 </p>
 
 ---

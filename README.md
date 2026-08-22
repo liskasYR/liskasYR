@@ -12,7 +12,7 @@ I am **liskasYR** (Yonatan Yosupov), a musical artist, visionary developer, and 
 ---
 
 ### 🏗️ The Ecosystem
-#### 💡 [LiskCell](https://liskcell.vercel.app)
+#### 💡 [LiskCell](https://liskcell.indevs.in)
 The core innovation hub. Developing the next generation of AI models and digital experiences.
 *   **LPT-5.5 (Lisk Pre-trained Transformer)**: Our most advanced neural reasoning model to date.
 

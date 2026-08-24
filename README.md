@@ -1,5 +1,5 @@
 ### 🌟 About Me
-I am **liskasYR** (Yonatan Yosupov), a musical artist, visionary developer, and the CEO of **LiskCell**. My work exists at the intersection of high-end technology, creative arts, and artificial intelligence. I focus on building ecosystems that empower creativity through neural intelligence.
+I am **liskasYR** (Yonatan Yusupov), a musical artist, visionary developer, and the CEO of **LiskCell**. My work exists at the intersection of high-end technology, creative arts, and artificial intelligence. I focus on building ecosystems that empower creativity through neural intelligence.
 
 ---
 
